@@ -1,0 +1,21 @@
+uuid: e50c1ee7-3ef1-43f9-9d88-976b392e6d61
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_directions
+    - node.type.recipe
+  module:
+    - text
+id: node.recipe.field_directions
+field_name: field_directions
+entity_type: node
+bundle: recipe
+label: Directions
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

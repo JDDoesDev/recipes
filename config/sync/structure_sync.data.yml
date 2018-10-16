@@ -1,0 +1,83 @@
+taxonomies:
+  tags: {  }
+  type:
+    -
+      vid: type
+      tid: '3'
+      langcode: en
+      name: Coffee
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 43c71cc3-93b9-4e8f-bbb6-df9f5b0df066
+    -
+      vid: type
+      tid: '4'
+      langcode: en
+      name: Drink
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 4d50a758-6bab-470e-beff-27af21060fc9
+    -
+      vid: type
+      tid: '2'
+      langcode: en
+      name: Food
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 2ee212b1-52d9-4df1-a490-abba019bc865
+    -
+      vid: type
+      tid: '5'
+      langcode: en
+      name: Hot
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '3'
+      uuid: 337904e9-cecf-4994-846e-64c2b41e1492
+    -
+      vid: type
+      tid: '6'
+      langcode: en
+      name: Iced
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '3'
+      uuid: 63a35bc0-82a1-454d-8a93-4ef5ad274e3c
+    -
+      vid: type
+      tid: '7'
+      langcode: en
+      name: Omni
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '2'
+      uuid: b179e302-1347-42d9-80e9-70e587a068e0
+    -
+      vid: type
+      tid: '1'
+      langcode: en
+      name: Staple
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 17f759d6-1f75-4a2f-8304-61f7bdc07af5
+    -
+      vid: type
+      tid: '8'
+      langcode: en
+      name: Vegan
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '2'
+      uuid: 56615842-241e-4e0d-a04c-61349d507933
